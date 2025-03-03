@@ -1,0 +1,24 @@
+Flights:
+source, destination, departure, price, desc
+
+
+Hotels:
+destination, checkIn(time), checkOut(time), price, desc
+
+
+
+Holiday Packages:
+source, destination, departute, price, desc
+
+
+Trains:
+source, destination, departure, price, desc
+
+
+Buses:
+source, destination, departure, price, desc
+
+
+
+ 
+
